@@ -1,2 +1,2 @@
-# Bachelor_Thesis
-Bachelor's Thesis
+# Bachelor's Thesis
+
