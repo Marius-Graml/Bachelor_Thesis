@@ -12,7 +12,7 @@ The work focused on the development of a compact, high-sensitivity sensor capabl
   </a>
   &nbsp;&nbsp;
   <a href="https://www.anu.edu.au/">
-    <img src="assets/anu_logo.png" alt="ANU" height="50"/>
+    <img src="assets/anu_logo.webp" alt="ANU" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://tmos.org.au/">
