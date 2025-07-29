@@ -8,14 +8,14 @@ The work focused on the development of a compact, high-sensitivity sensor capabl
 
 <p align="left">
   <a href="https://www.oth-regensburg.de/">
-    <img src="assets/oth_regensburg.png" alt="OTH Regensburg" height="50"/>
+    <img src="assets/oth_logo.png" alt="OTH Regensburg" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.anu.edu.au/">
-    <img src="assets/anu.png" alt="ANU" height="50"/>
+    <img src="assets/anu_logo.png" alt="ANU" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://tmos.org.au/">
-    <img src="assets/tmos.png" alt="TMOS" height="50"/>
+    <img src="assets/tmos_logo.png" alt="TMOS" height="50"/>
   </a>
 </p>
