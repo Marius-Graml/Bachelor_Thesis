@@ -7,15 +7,16 @@ The work focused on the development of a compact, high-sensitivity sensor capabl
 👉 [Read the full thesis here](./Bachelor_Thesis.pdf)
 
 <p align="left">
-  <a href="https://www.oth-regensburg.de/">
+  <a href="https://www.oth-regensburg.de/" style="text-decoration: none;">
     <img src="assets/oth_logo.png" alt="OTH Regensburg" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.anu.edu.au/">
+  <a href="https://www.anu.edu.au/" style="text-decoration: none;">
     <img src="assets/anu_logo.webp" alt="ANU" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://tmos.org.au/">
+  <a href="https://tmos.org.au/" style="text-decoration: none;">
     <img src="assets/tmos_logo.png" alt="TMOS" height="50"/>
   </a>
 </p>
+
